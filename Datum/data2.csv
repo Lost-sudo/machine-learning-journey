@@ -1,0 +1,11 @@
+age,salary,department,gender,target
+25,50000,HR,M,0
+32,60000,IT,F,1
+47,80000,IT,M,1
+51,90000,Finance,F,0
+23,48000,HR,F,0
+44,75000,Finance,M,1
+36,62000,IT,M,0
+52,95000,Finance,F,1
+29,52000,HR,F,0
+41,70000,IT,M,1
